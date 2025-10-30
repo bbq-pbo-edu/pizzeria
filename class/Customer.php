@@ -1,7 +1,5 @@
 <?php
 
-require_once "Order.php";
-
 class Customer
 {
     private string $lastName;
